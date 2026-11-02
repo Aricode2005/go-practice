@@ -1,0 +1,23 @@
+# Compiled Go binaries
+day01-wc/gowc
+*.exe
+*.test
+
+# Scratch test files
+a.txt
+b.txt
+out.txt
+
+# Secrets (important from tomorrow, when you start using API keys)
+.env
+*.key
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and Python leftovers
+*.log
+.venv/
+__pycache__/
